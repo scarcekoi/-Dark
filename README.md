@@ -5,16 +5,17 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+<img src="assets/macchvsmocha.png"/>
 
 ## Previews
 
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.webp"/>
+<img src="assets/macch.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.webp"/>
+<img src="assets/mocha.png"/>
 </details>
 
 ## Usage
