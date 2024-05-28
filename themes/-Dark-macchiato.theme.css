@@ -3767,7 +3767,10 @@ div[class*="fixClipping"]
 [class*="members__573eb"] {
 	background-color: var(--md-macchiato-crust);
 }
-[class*="role__18ec9"], [class*="showMoreButton__50b95"], [class*="compactButton__87ab2"]  {
+[class*="role__18ec9"],
+[class*="showMoreButton__50b95"],
+[class*="compactButton__87ab2"],
+[class*="activityBiteSizePopout__67f8f"] {
 	background-color: var(--md-mocha-base);
 }
 [class*="members__573eb"],
