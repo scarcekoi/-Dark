@@ -3703,6 +3703,9 @@ div[class*="fixClipping"]
 	--streaming-indicator: #cba6f7;
 }
 
+[class*="item_f9d377"] {
+	background-color: var(--md-mocha-mauve);
+}
 [class*="menu"] {
 	background-color: var(--md-mocha-base);
 }
