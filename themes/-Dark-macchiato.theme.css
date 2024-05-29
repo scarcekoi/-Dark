@@ -117,7 +117,7 @@
 
 [data-popout-root],
 html {
-  --brand-experiment: #8aadf4;
+  --brand-experiment: var(--md-macchiato-blue);
   --brand-experiment-100: white;
   --brand-experiment-130: white;
   --brand-experiment-160: white;
@@ -3702,15 +3702,14 @@ div[class*="fixClipping"]
 	--idle-indicator: #f9e2af;
 	--streaming-indicator: #cba6f7;
 }
-
 [class*="item_f9d377"] {
-	background-color: var(--md-mocha-mauve);
+	background-color: var(--md-macchiato-mauve);
 }
 [class*="menu"] {
-	background-color: var(--md-mocha-base);
+	background-color: var(--md-macchiato-base);
 }
 [class*="item__183e8"] {
-	background-color: var(--md-mocha-crust);
+	background-color: var(--md-macchiato-crust);
 	border-radius: 5px;
 }
 /* Uncomment to get rounded messages */
@@ -3727,7 +3726,7 @@ div[class*="fixClipping"]
   border-radius: 10px;
 } */
 [class*="unread__48cf4"] {
-	background-color: var(--md-mocha-mauve);
+	background-color: var(--md-macchiato-mauve);
 }
 [class^="winButton"] > svg {
 	display: none;
@@ -3774,7 +3773,10 @@ div[class*="fixClipping"]
 [class*="showMoreButton__50b95"],
 [class*="compactButton__87ab2"],
 [class*="activityBiteSizePopout__67f8f"] {
-	background-color: var(--md-mocha-base);
+	background-color: var(--md-macchiato-base);
+}
+[class*="member"] {
+	background-color: var(--md-macchiato-crust);
 }
 [class*="members__573eb"],
 [class*="membersWrap__5ca6b"],
@@ -3815,11 +3817,11 @@ div[class*="fixClipping"]
   color: var(--md-mocha-mauve);
 }
 [class*="icon__67ab4"] {
-  color: var(--md-latte-mauve);
+  color: var(--md-macchiato-mauve);
 }
 [class*="modeUnreadImportant__35358"] [class*="name__4eb92"],
 [class*="modeUnreadImportant__35358"] [class*="icon__67ab4"] {
-  color: var(--md-mocha-mauve);
+  color: var(--md-macchiato-mauve);
 }
 [class*="membersGroup_cad095"] {
   height: 0;
