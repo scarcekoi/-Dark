@@ -5,13 +5,13 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-<img src="assets/comparison.png"/>
+<img src="assets/Comparison.png"/>
 
 ## Previews
 
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.png"/>
+<img src="assets/Macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
