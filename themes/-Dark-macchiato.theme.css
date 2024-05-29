@@ -315,7 +315,7 @@ html {
   --background-message-highlight: rgba(138, 173, 244, 0.1);
   --background-message-highlight-hover: rgba(138, 173, 244, 0.08);
   --channels-default: #959ec2;
-  --channel-icon: #959ec2;
+  --channel-icon: var(--md-macchiato-mauve);
   --channel-text-area-placeholder: rgba(202, 211, 245, 0.5);
   --channeltextarea-background: #1e2030;
   --activity-card-background: #181926;
@@ -3728,6 +3728,9 @@ div[class*="fixClipping"]
 [class*="unread__48cf4"] {
 	background-color: var(--md-macchiato-mauve);
 }
+[class*="link_ddbb36"]:hover {
+	color: var(--md-macchiato-mauve);
+}
 [class^="winButton"] > svg {
 	display: none;
 }
@@ -3815,9 +3818,6 @@ div[class*="fixClipping"]
 }
 [class*="name__4eb92"], [class*="name__27f04"] {
   color: var(--md-mocha-mauve);
-}
-[class*="icon__67ab4"] {
-  color: var(--md-macchiato-mauve);
 }
 [class*="modeUnreadImportant__35358"] [class*="name__4eb92"],
 [class*="modeUnreadImportant__35358"] [class*="icon__67ab4"] {

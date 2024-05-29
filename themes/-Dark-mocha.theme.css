@@ -315,7 +315,7 @@ html {
   --background-message-highlight: rgba(137, 180, 250, 0.1);
   --background-message-highlight-hover: rgba(137, 180, 250, 0.08);
   --channels-default: #969ebe;
-  --channel-icon: #969ebe;
+  --channel-icon: var(--md-mocha-mauve);
   --channel-text-area-placeholder: rgba(205, 214, 244, 0.5);
   --channeltextarea-background: #181825;
   --activity-card-background: #11111b;
@@ -3815,9 +3815,6 @@ div[class*="fixClipping"]
   height: 40px;
 }
 [class*="name__4eb92"], [class*="name__27f04"] {
-  color: var(--md-mocha-mauve);
-}
-[class*="icon__67ab4"] {
   color: var(--md-mocha-mauve);
 }
 [class*="modeUnreadImportant__35358"] [class*="name__4eb92"],
