@@ -91,7 +91,7 @@ html {
   --header-secondary: #a5adcb;
   --text-normal: #cad3f5;
   --text-muted: #a5adcb;
-  --text-link: #8aadf4;
+  --text-link: var(--md-macchiato-lavender);
   --text-link-low-saturation: #7dc4e4;
   --text-positive: #a6da95;
   --text-warning: #eed49f;
