@@ -125,7 +125,7 @@ html {
   --info-help-background: #89dceb26;
   --info-help-foreground: var(--md-mocha-sky);
   --info-help-text: var(--md-mocha-text);
-  --status-positive-background: var(--md-mocha-green);
+  --status-positive-background: var(--md-mocha-blue);
   --status-positive-text: var(--md-mocha-base);
   --status-warning-background: var(--md-mocha-yellow);
   --status-warning-text: var(--md-mocha-base);

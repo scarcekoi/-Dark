@@ -125,7 +125,7 @@ html {
   --info-help-background: #91d7e326;
   --info-help-foreground: var(--md-macchiato-sky);
   --info-help-text: var(--md-macchiato-text);
-  --status-positive-background: var(--md-macchiato-green);
+  --status-positive-background: var(--md-macchiato-blue);
   --status-positive-text: var(--md-macchiato-base);
   --status-warning-background: var(--md-macchiato-yellow);
   --status-warning-text: var(--md-macchiato-base);
