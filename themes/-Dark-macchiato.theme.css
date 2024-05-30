@@ -3618,13 +3618,6 @@ div[class*="fixClipping"]
 
 /* Other code start here */
 
-:root {
-	--online-indicator: #a6e3a1;
-	--dnd-indicator: #f38ba8;
-	--idle-indicator: #f9e2af;
-	--streaming-indicator: #cba6f7;
-}
-
 [class*="item_f9d377"] {
 	background-color: var(--md-macchiato-mauve);
 }
@@ -3677,13 +3670,13 @@ div[class*="fixClipping"]
 	transform: scale(0.9);
 }
 [class^="winButtonClose"]::after {
-	background-color: var(--dnd-indicator) !important;
+	background-color: var(--md-macchiato-red) !important;
 }
 [class^="winButtonMinMax"]:nth-child(3)::after {
-	background-color: var(--online-indicator) !important;
+	background-color: var(--md-macchiato-yellow) !important;
 }
 [class^="winButtonMinMax"]:nth-child(4)::after {
-	background-color: var(--idle-indicator) !important;
+	background-color: var(--md-macchiato-green) !important;
 }
 [class*="channelTextArea_c2094b"] {
   max-width: 140vh;
