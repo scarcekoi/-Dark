@@ -102,7 +102,7 @@ html {
   --background-secondary-alt: #1a1c2a;
   --background-tertiary: var(--md-macchiato-crust);
   --background-accent: var(--md-macchiato-blue);
-  --background-floating: #141520;
+  --background-floating: var(--md-macchiato-base);
   --background-nested-floating: var(--md-macchiato-mantle);
   --background-mobile-primary: var(--md-macchiato-base);
   --background-mobile-secondary: var(--md-macchiato-mantle);

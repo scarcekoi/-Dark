@@ -102,7 +102,7 @@ html {
   --background-secondary-alt: #14141f;
   --background-tertiary: var(--md-mocha-crust);
   --background-accent: var(--md-mocha-blue);
-  --background-floating: #0d0d15;
+  --background-floating: var(--md-mocha-base);
   --background-nested-floating: var(--md-mocha-mantle);
   --background-mobile-primary: var(--md-mocha-base);
   --background-mobile-secondary: var(--md-mocha-mantle);
