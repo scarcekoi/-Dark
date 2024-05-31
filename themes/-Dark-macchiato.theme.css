@@ -1700,7 +1700,7 @@ main[class^="chatContent"]
   pre
   div[class^="codeContainer"]:hover {
   background-color: #666c87;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 .theme-dark div[class^="spoilerContainer"] div[class^="spoilerWarning"],
 .theme-light div[class^="spoilerContainer"] div[class^="spoilerWarning"] {
@@ -3630,7 +3630,7 @@ div[class*="fixClipping"]
 }
 /* Uncomment to get rounded messages */
 /*.cozyMessage__9f4fd .contents_d3ae0d > .markup_a7e664:not(:empty, code) {
-  background-color: var(--md-macchiato-crust);
+  background-color: var(--md-macchiato-mantle);
   display: inline-block;
   max-width: 650px;
   width: -webkit-fit-content;
@@ -3639,7 +3639,7 @@ div[class*="fixClipping"]
   max-width: fit-content;
   margin: 0;
   padding: 8px;
-  border-radius: 10px;
+  border-radius: 5px;
 } */
 [class*="unread__48cf4"] {
 	background-color: var(--md-macchiato-mauve);
