@@ -3619,6 +3619,9 @@ div[class*="fixClipping"]
 
 /* Other code start here */
 
+[class*="row__4f559"] {
+	background-color: var(--md-mocha-crust);
+}
 [class*="item_f9d377"] {
 	background-color: var(--md-mocha-mauve);
 }
