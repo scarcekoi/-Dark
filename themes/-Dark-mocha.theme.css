@@ -3619,6 +3619,12 @@ div[class*="fixClipping"]
 
 /* Other code start here */
 
+[class*="icon_ae0b42"] {
+	color: var(--md-mocha-text);
+}
+[class*="action__94060"] {
+	background-color: var(--md-mocha-crust);
+}
 [class*="row__4f559"] {
 	background-color: var(--md-mocha-crust);
 }
