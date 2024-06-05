@@ -35,6 +35,10 @@
 - Q: **_"Can this get my account banned?"_**
 - A: Using third party clients and injecting custom css is against the ToS. While nobody has ever been banned for simply using discord client mods, We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion!
 
+## 🔗 Links
+
+[Itch](https://scarcekoi.itch.io/minusdark)
+
 ## 💝 Thanks to these people for the original project
 
 - [GlowingUmbreon](https://github.com/glowingumbreon)
