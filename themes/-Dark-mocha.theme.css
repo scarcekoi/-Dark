@@ -229,8 +229,8 @@ html {
   --control-brand-foreground-new: var(--md-mocha-blue);
   --mention-foreground: var(--md-mocha-blue);
   --mention-background: #89b4fa4d;
-  --background-mentioned: var(--md-mocha-mantle);
-  --background-mentioned-hover: var(--md-mocha-crust);
+  --background-mentioned: #f9e2af1a;
+  --background-mentioned-hover: #f9e2af14;
   --background-message-hover: #11111b40;
   --background-message-automod: #f5e0dc0d;
   --background-message-automod-hover: #f5e0dc1a;
