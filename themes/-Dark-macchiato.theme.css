@@ -1127,7 +1127,7 @@ div[class^="pageWrapper"] div[class*="categoryPill_"][class*="selected_"] div {
   color: var(--md-macchiato-crust) !important;
 }
 div[class^="homeContainer"] {
-  background: var(--md-macchiato-base) !important;
+  background: var(--md-macchiato-crust) !important;
 }
 div[class^="homeContainer"] > div[class^="homeContent"] div[class*="card_"] {
   background: var(--md-macchiato-surface0) !important;
@@ -2078,10 +2078,10 @@ div[class*="giftCodeContainer"] [class*="tile"] > [class*="description"] {
   color: var(--md-macchiato-text);
 }
 div[class*="chat_"] section[class*="header_"] {
-  background-color: var(--md-macchiato-mantle);
+  background-color: var(--md-macchiato-base);
 }
 div[class*="chat_"] div[class*="content_"][class*="container_"] {
-  background-color: var(--md-macchiato-mantle);
+  background-color: var(--md-macchiato-crust);
 }
 div[class*="chat_"]
   div[class*="content_"][class*="container_"]
@@ -2109,7 +2109,7 @@ div[class*="chat_"]
 div[class*="chat_"]
   div[class*="content_"][class*="container_"]
   div[class*="scrollerContainer_"] {
-  background-color: var(--md-macchiato-mantle);
+  background-color: var(--md-macchiato-crust);
 }
 div[class*="chat_"]
   div[class*="content_"][class*="container_"]
@@ -2122,7 +2122,7 @@ div[class*="chat_"]
 div[class*="chat_"]
   div[class*="content_"][class*="container_"]
   div[role="tablist"] {
-  background-color: var(--md-macchiato-mantle);
+  background-color: var(--md-macchiato-crust);
   border-bottom: 2px solid var(--md-macchiato-surface0);
 }
 [class*="textBadge_"] {
@@ -3623,9 +3623,6 @@ div[class*="fixClipping"]
 	color: var(--md-macchiato-text);
 }
 [class*="action__94060"] {
-	background-color: var(--md-mocha-crust);
-}
-[class*="row__4f559"] {
 	background-color: var(--md-mocha-crust);
 }
 [class*="item_f9d377"] {
