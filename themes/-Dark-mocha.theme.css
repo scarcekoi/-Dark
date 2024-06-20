@@ -3619,6 +3619,13 @@ div[class*="fixClipping"]
 
 
 
+[class*="statusBubble"] {
+	background-color: var(--md-mocha-mantle);
+}
+[class*="item_d90b3d"] {
+	background-color: var(--md-mocha-mantle);
+	border-radius: 5px;
+}
 [class*="icon_ae0b42"] {
 	color: var(--md-mocha-text);
 }
